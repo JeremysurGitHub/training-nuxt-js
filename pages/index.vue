@@ -70,6 +70,14 @@
           >
             Continue
           </v-btn>
+          <v-spacer />
+          <v-btn
+            color="primary"
+            nuxt
+            to="/router"
+          >
+            Router
+          </v-btn>
         </v-card-actions>
       </v-card>
     </v-col>
